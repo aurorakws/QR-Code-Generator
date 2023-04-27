@@ -1,2 +1,2 @@
 # QR-Code-Generator
-The best QR Code Generator ever.
+Um gerador de QR Code criado para o aprendizado com APIs. Somente coloque a URL, frase ou palavra que quiseres e ele se encarregará de tudo.
